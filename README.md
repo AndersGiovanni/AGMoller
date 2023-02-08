@@ -2,7 +2,7 @@
 
 I'm a Data Scientist at [Firmnav](https://firmnav.com/) and MSc student in Data Science at [IT University of Copenhagen](https://itu.dk/). 
 
-- 🤟 I teach computers understand language - or try to. 
+- 🤟 I teach computers understand language. 
 - 🇩🇰 I'm trying to see if I can help building cool NLP tools in Danish.
 - 🏥 I'm also particularly interested in combining the two above and apply it in the healthcare sector.
 - 👨🏼‍💻 I recently started tracking my ML experiments on [Weights & Biases](https://wandb.ai/hrmussa). Go check it out, it's a nice tool.
