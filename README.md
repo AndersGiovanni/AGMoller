@@ -1,6 +1,6 @@
 ### Hi there, I'm Anders 🤖🙌🏻
 
-I'm a Data Scientist at [Firmnav](https://firmnav.com/) and MSc student in Data Science at [IT University of Copenhagen](https://itu.dk/). 
+I'm a PhD student in the NEtwoRks, Data, and Society ([NERDS](https://nerds.itu.dk/)) research group at [IT University of Copenhagen](https://itu.dk/). Previously data scientist at [Firmnav](https://firmnav.com/)
 
 - 🤖 I'm trying to teach computers how to understand language and communicate more like humans.
 - 🇩🇰 I'm passionate about building exciting NLP tools in Danish and exploring the potential they hold.
