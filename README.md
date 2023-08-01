@@ -5,7 +5,6 @@ I'm a Data Scientist at [Firmnav](https://firmnav.com/) and MSc student in Data 
 - 🤖 I'm trying to teach computers how to understand language and communicate more like humans.
 - 🇩🇰 I'm passionate about building exciting NLP tools in Danish and exploring the potential they hold.
 - 🏥 As a healthcare enthusiast, I'm especially interested in combining NLP with healthcare to create innovative solutions that can improve patient care.
-- 👨🏼‍💻 Recently, I started tracking my machine learning experiments on [Weights & Biases](https://wandb.ai/hrmussa) - a powerful tool that helps me keep my research experiments organized. Check it out!
 - 🔗 You can find me on [Twitter](https://twitter.com/AndersGiovanni) and [LinkedIn](https://www.linkedin.com/in/anders-giovanni-m%C3%B8ller-b02458105/).
 
 <p align="left">
